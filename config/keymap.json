@@ -45,7 +45,7 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",               "&trans",           "&trans",          "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans", "&macro_previous_pair", "&macro_next_pair",          "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&kp LEFT_ARROW",         "&kp UP_ARROW",   "&kp DOWN_ARROW", "&kp RIGHT_ARROW", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",         "&trans",   "&mt LEFT_CONTROL U",      "&mt LCTRL D",          "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",         "&trans",        "&macro_ctrl_u",    "&macro_ctrl_d",          "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                   "&trans",               "&trans",           "&trans",          "&trans", "&trans"
     ]
   ]
