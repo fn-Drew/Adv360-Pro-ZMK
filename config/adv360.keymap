@@ -99,11 +99,11 @@
 
         layer_games {
             bindings = <
-  &trans          &kp N5  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4               &trans                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &kp TAB           &kp T         &kp Q         &kp W         &kp E         &kp R               &trans                                                        &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &kp ESC  &kp LEFT_SHIFT         &kp A         &kp S         &kp D         &kp F               &trans        &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-  &trans           &kp Z         &kp X         &kp C         &kp V         &kp B               &trans        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-  &trans          &trans        &trans        &trans        &trans                          &kp SPACE  &kp LEFT_ALT  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+  &trans          &kp N5  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4               &trans                                                            &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &kp TAB           &kp T         &kp G         &kp W         &kp E         &kp R               &trans                                                            &trans   &kp Y   &kp U   &kp I   &kp O   &kp P  &trans
+ &kp ESC  &kp LEFT_SHIFT         &kp A         &kp S         &kp D         &kp F               &trans  &kp LCTRL  &trans                         &trans   &none  &trans   &kp H   &kp J   &kp K   &kp L  &trans  &trans
+  &trans           &kp Z         &kp X         &kp C         &kp V         &kp B               &trans     &trans  &trans  &trans  &trans    &kp PAGE_UP  &trans  &trans   &kp N   &kp M  &trans  &trans  &trans  &trans
+  &trans          &trans        &trans         &kp N         &kp J                          &kp SPACE      &kp Q  &trans                  &kp PAGE_DOWN  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
